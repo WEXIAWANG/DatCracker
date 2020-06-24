@@ -1,2 +1,2 @@
 # DatCracker
-A .Dat to jpg decription tool
+A .Dat to jpg decryption tool
